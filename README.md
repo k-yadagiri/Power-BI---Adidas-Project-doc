@@ -11,9 +11,10 @@ It provides insights into sales, profit, and unit sales trends across different 
 ---
 
 ## 📂 Files in this Repository
-- **ADIDAS PROJECT 2.pbix** – The Power BI file containing the dashboard and data model.
-- **Screenshot 2025-08-12 034953.png** – Static image of the dashboard for quick reference.
-
+- **ADIDAS PROJECT 2.pbix** → Power BI file with the complete dashboard.
+- **Adidas project2 image.png** → Dashboard preview image.
+- **adidas_data_cleaning.pdf** → Document detailing the data cleaning process.
+- **README.md** → Project documentation.
 ---
 
 ## 🔍 Key Insights from the Dashboard
