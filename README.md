@@ -6,7 +6,7 @@ It provides insights into sales, profit, and unit sales trends across different 
 ---
 
 ## 📊 Dashboard Preview
-![Adidas Sales Dashboard]("images/adidas_dashboard.png")
+![Adidas Sales Dashboard]("C:\Users\giriy\Downloads\Adidas project2 image.png")
 
 ---
 
