@@ -44,3 +44,9 @@ It provides insights into sales, profit, and unit sales trends across different 
 ## 📌 Author
 Created by **Kuruva Yadagiri**  
 Feel free to connect and share feedback!
+---
+## 🙋‍♂️ About Me
+**Yadagiri Kuruva**  
+Recent B.Tech graduate in CSE (AI & DS) | Data Analysis & Science Enthusiast  
+🔗 [GitHub](https://github.com/k-yadagiri)  
+🔗 [linkedln](https://www.linkedin.com/in/k-yadagiri)
