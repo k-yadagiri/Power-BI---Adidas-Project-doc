@@ -6,7 +6,7 @@ It provides insights into sales, profit, and unit sales trends across different 
 ---
 
 ## 📊 Dashboard Preview
-![Adidas Sales Dashboard]([dashbord image](https://github.com/k-yadagiri/Power-BI---Adidas-Project-doc/blob/main/Adidas%20project2%20image.png))
+[Adidas Sales Dashboard]([Dashbord Image](https://github.com/k-yadagiri/Power-BI---Adidas-Project-doc/blob/main/Adidas%20project2%20image.png))
 
 ---
 
