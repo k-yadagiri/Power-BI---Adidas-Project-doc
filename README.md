@@ -18,13 +18,13 @@ It provides insights into sales, profit, and unit sales trends across different 
 ---
 
 ## 🔍 Key Insights from the Dashboard
-- **Total Sales:** 27.68M  
-- **Total Units Sold:** 593K  
+- **Total Sales:** 109.41M  
+- **Total Units Sold:** 2M  
 - **Top Performing Retailers** such as West Gear, Foot Locker, and Sports Direct.  
 - **Sales Trend Over Time** showing monthly variations.  
 - **Sales Contribution by Product Category** with detailed breakdown.  
 - **Top 5 Cities by Profit** including Charleston and New York.  
-- **Sales by Channel** (Online, Outlet, In-store).
+- **Sales by Channel** (Online 39.81M, Outlet 37.41M, In-store 32.31M).
 
 ---
 
